@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import { CssBaseline, makeStyles } from "@material-ui/core";
 import Header from "./components/Header";

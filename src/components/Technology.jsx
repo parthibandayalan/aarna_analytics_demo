@@ -37,6 +37,7 @@ export default function Technology() {
         <div className={classes.imageTxtContainer}>
           <img
             src={process.env.PUBLIC_URL + "/assets/engine.jpg"}
+            alt=""
             className={classes.image}
           />
           <div className={classes.innerText}>

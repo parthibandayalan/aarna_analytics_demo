@@ -85,7 +85,8 @@ export default function Header() {
       <AppBar className={classes.appbar} elevation={0}>
         <Toolbar className={classes.appbarWrapper}>
           <img
-            src={process.env.PUBLIC_URL + "/assets/Aarna_logo_notext.png"}
+            src={process.env.PUBLIC_URL + "/assets/aarna_logo_notext.png"}
+            alt=""
             className={classes.image}
           />
           <Typography

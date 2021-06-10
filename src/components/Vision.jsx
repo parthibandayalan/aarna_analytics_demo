@@ -52,6 +52,7 @@ export default function Vision() {
           </div>
           <img
             src={process.env.PUBLIC_URL + "/assets/mountain_flag_2.jpg"}
+            alt=""
             className={classes.image}
           />
         </div>
